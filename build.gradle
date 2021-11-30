@@ -25,6 +25,7 @@ dependencies {
     implementation 'junit:junit:4.13.1'
     implementation 'org.jeasy:easy-random-core:5.0.0'
     implementation 'commons-io:commons-io:2.11.0'
+    implementation 'com.h2database:h2:1.4.200'
 
     compileOnly 'org.projectlombok:lombok'
 
